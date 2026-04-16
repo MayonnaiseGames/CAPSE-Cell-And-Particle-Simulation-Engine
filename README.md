@@ -1,8 +1,6 @@
 # cell Simulator
     Cellular automata simulator/engine written in C++ using the opengl specification.
 
-    this project is a learning tool for the very basics of opengl.
-
     I will try keep the code as readable and commented as possible so its easy
     for others to read and understand, but i do plan on having most of the customisations
     for the cellular automata withing the application itself.
